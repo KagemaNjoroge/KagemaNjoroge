@@ -1,4 +1,7 @@
-[<img src="Vanilla-2.3s-262px.svg" alt="👋 Hi there! I'm Kagema Njoroge)|https://njoroge.tomorrow.co.ke)" title="👋 Hi there! I'm (Kagema Njoroge)|https://njoroge.tomorrow.co.ke)" align="center" />](https://njoroge.tomorrow.co.ke)
+<div align="center">
+	[<img src="Vanilla-2.3s-262px.svg" alt="👋 Hi there! I'm Kagema Njoroge)|https://njoroge.tomorrow.co.ke)" title="👋 Hi there! I'm (Kagema Njoroge)|https://njoroge.tomorrow.co.ke)" align="center" />](https://njoroge.tomorrow.co.ke)
+</div>
+
 
 
 
