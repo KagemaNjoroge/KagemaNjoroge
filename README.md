@@ -1,6 +1,6 @@
 ## :book: a𝚋𝚘𝚞𝚝 𝙼𝚎
 
-- Am just curios about the future.
+- just curios about the future.
 - inspired by [Andrej Karpathy](https://karpathy.ai)
 
 ## what am I up to
