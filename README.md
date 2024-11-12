@@ -1,14 +1,7 @@
 # Hey there, I'm Kagema Njoroge! 😎
-
-I'm a 21-year-old code ninja 🥷, founder of TomorrowAI 🚀, and a relentless dreamer with a caffeine addiction. When I'm not hacking away on Python (my first love 💻❤️), I'm probably ranting about how much I *really* don't like PHP. 
-
-## What I Do:
-- 🧠 Building AI-powered solutions to make life easier (because why not let machines do the boring stuff?)
-- 🛠️ Creating UltimatePOS to help Kenyan businesses stay tax compliant without breaking a sweat
-- 🌍 Targeting the Kenyan market but with my sights set on global domination (muahaha!)
+When I'm not hacking away on Python (my first love 💻❤️), I'm probably ranting about how much I *really* don't like PHP. 
 
 ## Fun Facts:
-- 💼 TomorrowAI is my baby, and I'm laser-focused on turning it into a tech powerhouse
 - 📚 Still a Computer Science student at the [University of Nairobi](https://computerscience.uonbi.ac.ke) (for now...)
 - 💡 Big fan of taking risks and dreaming big. Small thinking? Nah, that's not me.
 
