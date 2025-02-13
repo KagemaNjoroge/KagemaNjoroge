@@ -1,6 +1,9 @@
 # Hey there, I'm Kagema Njoroge! 😎
-When I'm not hacking away on Python (my first love 💻❤️), I'm probably ranting about how much I *really* don't like PHP. 
+I primarily work with **Django**, **Flutter**, and **Svelte**, so you'll find most of my projects centered around these technologies. If you're interested in collaborating or discussing anything related to them, feel free to connect!
 
 ## Fun Facts:
 - 📚 Still a Computer Science student at the [University of Nairobi](https://computerscience.uonbi.ac.ke) (for now...)
+
+Happy coding! 🚀
+
 
