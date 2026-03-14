@@ -1,4 +1,3 @@
-# Hey there, I'm Kagema Njoroge
 I am tinker, pentester & bug bounty hunter.
 
 :+
